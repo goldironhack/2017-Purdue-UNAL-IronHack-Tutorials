@@ -4,7 +4,7 @@ Welcome to Bogota Black Ironhacks! These pages aim to introduce you to various t
 
 ## Session 1
 
-**[Presentation](https://drive.google.com/open?id=1ROow9rDdBPrJkhUaoTVEoPvAm8mr1j7Xm4oaQH2u-d4)** -- Slides for Session 1
+**[Presentation](https://drive.google.com/open?id=1sjZ7yVoA8M6EfXRO4h6GFP1okMIr7p5Lpackdnl8n3E)** -- Slides for Session 1
 ### HTML
 **[Tutorial](http://www.w3schools.com/html)** -- An offical tutorial for HTML<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
@@ -26,7 +26,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 2
 
-**[Presentation](https://drive.google.com/open?id=1OYDpDXJI_I0kP3_MwuqNwsVqt2wb_JwlGoz0Eo7id30)** -- Slides for Session 2
+**[Presentation](https://drive.google.com/open?id=1xUv4yT7R2p2yTVoSPS5-doPx6DvBAZrDcvqupxrAHSI)** -- Slides for Session 2
 
 ### Javascript and jQuery
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An offical tutorial for Javascript<br>
@@ -36,7 +36,7 @@ You are required to submit code to our system using Github. <br>
 
 ## Session 3
 
-**[Presentation](https://docs.google.com/presentation/d/1paSzazJEQV3jkrPDvGyM6wKifaGgkZwWRotKwvwMNy0/edit?usp=sharing)** -- Slides for Session 3
+**[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
