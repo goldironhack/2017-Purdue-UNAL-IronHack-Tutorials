@@ -74,4 +74,4 @@ You can read more about these datasets [here](Datasets.md). There are 50 dataset
 
 A completed sample project for your reference has been completed, and can be found at the following link. In this sample project, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
-- **[Demo of Sample Project](https://cdn.rawgit.com/blackironhack/2017-Bogota-Ironhack-Tutorials/277b0a56/sample_project/2017-Bogota-Ironhacks-Tutorial-Project.html)**
+- **[Demo of Sample Project](http://cdn.rawgit.com/blackironhack/2017-Bogota-Ironhack-Tutorials/277b0a56/sample_project/2017-Bogota-Ironhacks-Tutorial-Project.html)**
