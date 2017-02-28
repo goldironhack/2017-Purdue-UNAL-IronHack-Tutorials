@@ -21,7 +21,7 @@ These pages aim to introduce you to various technologies that will be required a
 **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
-Quiz “HTML&CSS” for week 1: We strongly recommend that you take your Quiz that is available on our [platform](https://www.ironhacks.com) (sign-in to your contest).<br>
+Quiz “HTML&CSS” for week 1: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest).<br>
 
 ### Github
 
@@ -41,7 +41,7 @@ You are required to submit code to our system using Github. <br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
 
-Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](https://www.ironhacks.com) (sign-in to your contest). 
+Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest). 
 
 ## Session 3 
 <small><i>(please complete in the week of March 20th to March 26th)</i></small>
@@ -60,7 +60,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[C3.js](http://c3js.org)**<br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
-Quiz “D3” for week 3: We strongly recommend that you take your Quiz that is available on our [platform](https://www.ironhacks.com) (sign-in to your contest). 
+Quiz “D3” for week 3: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest). 
 
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
