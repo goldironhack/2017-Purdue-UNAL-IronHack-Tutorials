@@ -1,6 +1,6 @@
-# 2017 Bogota Black Ironhacks Tutorials    
+# 2017 Bogota Gold Ironhacks Tutorials    
 
-Welcome to Bogota Black Ironhacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to Bogota Gold Ironhacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
 
 ## Session 1
 
@@ -56,7 +56,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
 
 
-Bogota Black Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
+Bogota Gold Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
 ### Datasets
 
