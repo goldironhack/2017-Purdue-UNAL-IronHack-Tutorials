@@ -8,7 +8,8 @@ Welcome to Purdue-UNAL Gold IronHacks 2017! These tutorials are for students fro
 
 These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017. 
 
-## Session 1 <small><i>(please complete in the week of March 6th to March 12th)</i></small>
+## Session 1 
+<i><small>(please complete in the week of March 6th to March 12th)</small></i>
 
 **[Presentation](https://drive.google.com/open?id=1sjZ7yVoA8M6EfXRO4h6GFP1okMIr7p5Lpackdnl8n3E)** -- Slides for Session 1
 ### HTML
