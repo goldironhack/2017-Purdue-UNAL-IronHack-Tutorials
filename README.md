@@ -31,7 +31,8 @@ You are required to submit code to our system using Github. <br>
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and Github, such as how to install and basic usage<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
-## Session 2 <small><i>(please complete in the week of March 13th to March 19th)</i></small>
+## Session 2 
+<small><i>(please complete in the week of March 13th to March 19th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1xUv4yT7R2p2yTVoSPS5-doPx6DvBAZrDcvqupxrAHSI)** -- Slides for Session 2
 
@@ -42,7 +43,8 @@ You are required to submit code to our system using Github. <br>
 
 Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](https://www.ironhacks.com) (sign-in to your contest). 
 
-## Session 3 <small><i>(please complete in the week of March 20th to March 26th)</i></small>
+## Session 3 
+<small><i>(please complete in the week of March 20th to March 26th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
