@@ -1,8 +1,14 @@
-# 2017 Purdue-UNAL Gold IronHacks Tutorials    
+# Purdue-UNAL Gold IronHacks 2017 Tutorials    
 
-Welcome to Purdue-UNAL Gold IronHacks! These pages aim to introduce you to various technologies that will be required as part of this programming challenge.
+Welcome to Purdue-UNAL Gold IronHacks 2017! These tutorials are for students from the following classes: 
+- Ingeniería de software I, Group 1, Yury Niño, Mondays and Wednesdays at 2 pm
+- Ingeniería de software I, Group 2, Jairo Aponte, Tuesdays (454-403) and Thursdays (401-103), at 2 pm
+- Ingeniería de software II, Group 1, Camilo Delgado, Mondays and Wednesdays at 2 pm
+- Ingeniería de software II, Group 2, Camilo Delgado, Tuesdays and Thursdays, at 2 pm
 
-## Session 1
+These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017. 
+
+## Session 1 <small><i>(please complete in the week of March 6th to March 12th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1sjZ7yVoA8M6EfXRO4h6GFP1okMIr7p5Lpackdnl8n3E)** -- Slides for Session 1
 ### HTML
@@ -11,10 +17,10 @@ Welcome to Purdue-UNAL Gold IronHacks! These pages aim to introduce you to vario
 
 ### CSS
 **[Tutorial](http://www.w3schools.com/css/)** -- An offical tutorial for CSS<br>
-&nbsp;&nbsp;&nbsp;&nbsp; **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
+**[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
-**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_do6Sc9VJsAMmOih)** -- A quiz for HTML and CSS<br>
+Quiz “HTML&CSS” for week 1: We strongly recommend that you take your Quiz that is available on our [platform](www.ironhacks.com) (sign-in to your contest).<br>
 
 ### Github
 
@@ -24,7 +30,7 @@ You are required to submit code to our system using Github. <br>
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and Github, such as how to install and basic usage<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
-## Session 2
+## Session 2 <small><i>(please complete in the week of March 13th to March 19th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1xUv4yT7R2p2yTVoSPS5-doPx6DvBAZrDcvqupxrAHSI)** -- Slides for Session 2
 
@@ -32,16 +38,17 @@ You are required to submit code to our system using Github. <br>
 **[JS Tutorial](http://www.w3schools.com/js/)** -- An offical tutorial for Javascript<br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
-**[Quiz](https://purdue.qualtrics.com/jfe3/form/SV_b8zyxX8wozQfNul)** -- Quiz for Javascript and jQuery<br>
 
-## Session 3
+Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](www.ironhacks.com) (sign-in to your contest). 
+
+## Session 3 <small><i>(please complete in the week of March 20th to March 26th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
 ### D3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for D3<br> 
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for D3<br>
-**[Quiz](https://purdue.qualtrics.com/jfe/form/SV_71xEzp5vQ7rC817)** -- Quiz for D3<br>
+
 
 ### Chart Libraries
 You can use chart libraries to create beautiful visualizations <br>
@@ -50,13 +57,16 @@ You can use chart libraries to create beautiful visualizations <br>
 **[C3.js](http://c3js.org)**<br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
+Quiz “D3” for week 3: We strongly recommend that you take your Quiz that is available on our [platform](www.ironhacks.com) (sign-in to your contest). 
+
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
 **[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- A sample tutorial for Google Map API <br>
 **[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
 
+## Additional information to get ready for the hack that starts on March 28th, 2017
 
-Purdue-UNAL Gold IronHacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
+Purdue-UNAL Gold IronHacks 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
 ### Datasets
 
@@ -75,3 +85,5 @@ You can read more about these datasets [here](Datasets.md). There are 50 dataset
 A completed sample project for your reference has been completed, and can be found at the following link. In this sample project, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
 - **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-UNAL-IronHack-Tutorials/master/sample_project/2017-Purdue-UNAL-IronHacks-Tutorial-Project.html)**
+
+<i>If you have done all this, you are ready to go! Good luck during the competition! You can do it! </i>
