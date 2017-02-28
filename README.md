@@ -56,7 +56,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[Offical Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** -- Offical tutorial for Google Map API<br>
 
 
-Purdue-UNAL Gold Ironhacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
+Purdue-UNAL Gold IronHacks will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide and the same project linked above
 
 ### Datasets
 
