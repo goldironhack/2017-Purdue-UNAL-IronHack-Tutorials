@@ -9,7 +9,7 @@ Welcome to Purdue-UNAL Gold IronHacks 2017! These tutorials are for students fro
 These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on March 28th, 2017. 
 
 ## Session 1 
-<i><small>(please complete in the week of March 6th to March 12th)</small></i>
+<i><small>(please complete before March 12th)</small></i>
 
 **[Presentation](https://drive.google.com/open?id=1sjZ7yVoA8M6EfXRO4h6GFP1okMIr7p5Lpackdnl8n3E)** -- Slides for Session 1
 ### HTML
@@ -21,7 +21,7 @@ These pages aim to introduce you to various technologies that will be required a
 **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
-Quiz “HTML&CSS” for week 1: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest).<br>
+Quiz “HTML&CSS” for week 1: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
 
 ### Github
 
@@ -32,7 +32,7 @@ You are required to submit code to our system using Github. <br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git
 
 ## Session 2 
-<small><i>(please complete in the week of March 13th to March 19th)</i></small>
+<small><i>(please complete before March 20th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1xUv4yT7R2p2yTVoSPS5-doPx6DvBAZrDcvqupxrAHSI)** -- Slides for Session 2
 
@@ -41,10 +41,10 @@ You are required to submit code to our system using Github. <br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
 
-Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest). 
+Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
 
 ## Session 3 
-<small><i>(please complete in the week of March 20th to March 26th)</i></small>
+<small><i>(please complete before March 28th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
@@ -60,7 +60,7 @@ You can use chart libraries to create beautiful visualizations <br>
 **[C3.js](http://c3js.org)**<br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
-Quiz “D3” for week 3: We strongly recommend that you take your Quiz that is available on our [platform](http://www.ironhacks.com) (sign-in to your contest). 
+Quiz “D3” for week 3: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
 
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
