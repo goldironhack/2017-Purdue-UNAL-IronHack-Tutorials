@@ -21,7 +21,14 @@ These pages aim to introduce you to various technologies that will be required a
 **[Bootstrap](http://getbootstrap.com/)** -- Offical website for Bootstrap<br>
 **[Sample Project](session1/html&css)** -- Simple project fot HTML and CSS<br>
 
-Quiz “HTML&CSS” for week 1: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
+### Videos for Sample Projects
+**[HTML & CSS 1](https://drive.google.com/open?id=0B-DRvJb6N3IiSXFMQkR1LVFvQTA)** <br>
+**[HTML & CSS 2](https://drive.google.com/open?id=0B-DRvJb6N3IidUZDS0d5TVBnb1E)** <br>
+
+Please follow along these videos to complete the sample project.
+
+
+**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest).<br>
 
 ### GitHub
 
@@ -41,7 +48,17 @@ You are required to submit code to our system using GitHub. <br>
 **[jQuery Tutorial](http://www.w3schools.com/jquery/)** -- An offical tutorial for jQuery<br>
 **[Sample Project](session2/)** -- Simple project for Javascript and jQuery<br>
 
-Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
+### Videos for Sample Projects
+**[JavaScript 1](https://drive.google.com/open?id=0B9-5urQe7fqLRWpzcl9ZQnN6VDQ)** <br>
+**[JavaScript 2](https://drive.google.com/open?id=0B9-5urQe7fqLUnpNQ3BQcWdoR00)** <br>
+**[JavaScript 3](https://drive.google.com/open?id=0B9-5urQe7fqLVk1Ebk9DU2g2SFU)** <br>
+**[jQuery 1](https://drive.google.com/open?id=0B9-5urQe7fqLSEZpSWFvdlR1aTA)** <br>
+**[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** <br>
+**[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** <br>
+
+Please follow along these videos to complete the sample project.
+
+**[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz. (sign-in to your contest).<br>
 
 ## Session 3 
 <small><i>(please complete before March 28th)</i></small>
@@ -60,7 +77,15 @@ You can use chart libraries to create beautiful visualizations <br>
 **[C3.js](http://c3js.org)**<br>
 **[Sigma.js](http://sigmajs.org)**<br>
 
-Quiz “D3” for week 3: We strongly recommend that you take your [Quiz](http://www.ironhacks.com/quizzes) that is available on our platform. (sign-in to your contest).<br>
+### Videos for Sample Projects
+**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** <br> 
+**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)**<br> 
+**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br> 
+**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** <br> 
+
+Please follow along these videos to complete the sample project. 
+
+**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take thsi quiz. (sign-in to your contest).<br>
 
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
