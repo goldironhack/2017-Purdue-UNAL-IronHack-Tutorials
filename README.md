@@ -95,7 +95,7 @@ Please follow along these videos to complete the sample projects on d3.
 ## Additional information to get ready for the hack that starts on March 28th, 2017
 
 Purdue-UNAL Gold IronHacks 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). 
-Below, we provide you with information about open data sets, and also a SIMPLE TEMPLATE OF A MASHUP (similar to that you submit in the first phases of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
+Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
@@ -117,15 +117,15 @@ You can read more about these datasets [here](Datasets.md).
 Please make sure that you also include very descriptive readme file when you commit your application. 
 - **[Example README](readme_template)**
 
-### 3. Sample Project    
+### 3. Example Submission of a Mashup   
 
-A completed sample project for your reference has been completed, and can be found at the following link. In this sample project, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
+An example submission of a mashup has been completed to get you started (but you do not have to use it). It can be found via the following link. In this example submission, AJAX is used for data retrieval, Google Map Api and D3 are applied for data display. 
 
-- **[Dev Process](sample_project)** -- This is a template of a mashup. Please keep in mind that is not related to your challenge question in the Purdue-UNAL Gold IronHacks <br>
-- **[Demo of Sample Project](http://rawgit.com/goldironhack/2017-Purdue-UNAL-IronHack-Tutorials/master/sample_project/2017-Purdue-UNAL-IronHacks-Tutorial-Project.html)**
+- **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue-UNAL Gold IronHacks <br>
+- **[Demo of Example Project](http://rawgit.com/goldironhack/2017-Purdue-UNAL-IronHack-Tutorials/master/sample_project/2017-Purdue-UNAL-IronHacks-Tutorial-Project.html)**
 
 ###4. Virtual Tutoring Sessions
 
 We will be available for online Q&As on Wednesdays and Fridays. Please check www.ironhacks.com
 
-<i>If you have done all this, you are ready to go! Good luck during the competition! You can do it! </i>
+<i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
