@@ -25,10 +25,10 @@ These pages aim to introduce you to various technologies that will be required a
 **[HTML & CSS 1](https://drive.google.com/open?id=0B-DRvJb6N3IiSXFMQkR1LVFvQTA)** <br>
 **[HTML & CSS 2](https://drive.google.com/open?id=0B-DRvJb6N3IidUZDS0d5TVBnb1E)** <br>
 
-Please follow along these videos to complete the sample projects on HTML & CSS.
+Please follow along these videos to complete the sample projects on HTML & CSS
 
 
-**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest).<br>
+**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
 
 ### GitHub
 
@@ -56,16 +56,16 @@ You are required to submit code to our system using GitHub. <br>
 **[jQuery 2](https://drive.google.com/open?id=0B9-5urQe7fqLRW45aHdYZVZMQ1k)** <br>
 **[jQuery 3](https://drive.google.com/open?id=0B9-5urQe7fqLT181QTBfMXRyUFk)** <br>
 
-Please follow along these videos to complete the sample projects on Javascript & jQuery.
+Please follow along these videos to complete the sample projects on Javascript & jQuery
 
-**[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz. (sign-in to your contest).<br>
+**[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ## Session 3 
 <small><i>(please complete before March 28th)</i></small>
 
 **[Presentation](https://drive.google.com/open?id=1lNHrUUyLdcfl8Mo5BYv1_XlG9UBxfwl_z0GNYqgRc0M)** -- Slides for Session 3
 
-### D3.js and Google Maps
+### d3.js and Google Maps
 **[Tutorial](https://github.com/d3/d3/wiki)** -- An offical tutorial for d3<br> 
 **[Sample Project](session3/D3_tutorial)** -- Our simple project for d3 specifically developed for IronHacks<br>
 
@@ -83,9 +83,9 @@ You can use chart libraries to create beautiful visualizations <br>
 **[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** <br> 
 **[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** <br> 
 
-Please follow along these videos to complete the sample projects on d3. 
+Please follow along these videos to complete the sample projects on d3 
 
-**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take thsi quiz. (sign-in to your contest).<br>
+**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
 
 ### Google Maps Javascript API
 **[Offical Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** -- Offical tutorial for Google Map API<br>
@@ -99,7 +99,7 @@ Below, we provide you with information about open data sets, and also an example
 
 ### 1. Datasets
 
-The IRONHACKS rules require that you use at least TWO open data sets in your project. One dataset is mandatory.
+The IRONHACKS rules require that you use at least TWO open data sets in your project. One dataset is mandatory
 
 Available datasets to choose from:
 - **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web)** -- the mandatory dataset <br>
@@ -111,7 +111,7 @@ If you want to learn more about the sources of this data:
 - **[Data.gov](https://www.data.gov)** -- official site of the US Government
 - **[data.cityof.chicago.gov](https://data.cityofchicago.org/)** -- official site of the City of Chicago for open data
 
-You can read more about these datasets [here](Datasets.md). 
+You can read more about these datasets [here](Datasets.md)
 
 ### 2. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application. 
