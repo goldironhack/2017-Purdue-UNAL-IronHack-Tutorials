@@ -115,7 +115,7 @@ You can read more about these datasets [here](Datasets.md).
 
 ### 2. Readme File
 Please make sure that you also include very descriptive readme file when you commit your application. 
-- **[ExampleREADME](readme_template)**
+- **[Example README](readme_template)**
 
 ### 3. Sample Project    
 
