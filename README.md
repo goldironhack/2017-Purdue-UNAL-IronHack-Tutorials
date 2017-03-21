@@ -124,7 +124,7 @@ An example submission of a mashup has been completed to get you started (but you
 - **[Dev Process](sample_project)** -- This is a example submission of a mashup. Please keep in mind that is NOT related to your challenge question in the Purdue-UNAL Gold IronHacks <br>
 - **[Demo of Example Project](http://rawgit.com/goldironhack/2017-Purdue-UNAL-IronHack-Tutorials/master/sample_project/2017-Purdue-UNAL-IronHacks-Tutorial-Project.html)**
 
-###4. Virtual Tutoring Sessions
+### 4. Virtual Tutoring Sessions
 
 We will be available for online Q&As on Wednesdays and Fridays. Please check www.ironhacks.com
 
